@@ -1,0 +1,1 @@
+strings = ['Chandan',"Singh",1,2,3,45]
